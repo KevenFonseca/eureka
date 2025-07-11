@@ -1,4 +1,4 @@
-# PROJETO NEWS
+# LANDING PAGE
 
 Este projeto é uma aplicação web desenvolvida para exibir notícias de forma dinâmica e organizada. O objetivo é permitir que usuários possam acessar, ler e buscar notícias atualizadas sobre diversos temas. O sistema utiliza tecnologias modernas de desenvolvimento web e pode ser integrado a APIs de notícias para fornecer conteúdo em tempo real.
 
